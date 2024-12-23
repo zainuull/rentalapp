@@ -11,22 +11,19 @@ import 'package:rentapp/presentation/pages/onboarding_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
-  await Firebase.initializeApp(
-    options: DefaultFirebaseOptions.currentPlatform
-  );
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   initInjection();
-  runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+     
   @override
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (_) => getIt<CarBloc>()..add(LoadCars()),
       child: MaterialApp(
-        title: 'Flutter Demo',
+        title: 'Rental App',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),

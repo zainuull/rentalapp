@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "961519639955",
-    "project_id": "rentapp-fg-x",
-    "storage_bucket": "rentapp-fg-x.appspot.com"
+    "project_number": "702966691379",
+    "project_id": "rental-app-1b937",
+    "storage_bucket": "rental-app-1b937.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:961519639955:android:eeef99891c5b9ed27f1c66",
+        "mobilesdk_app_id": "1:702966691379:android:20b8bb0bf349359f3b1546",
         "android_client_info": {
           "package_name": "com.example.rentapp"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "YOUR_OWN_KEY"
+          "current_key": "AIzaSyB3kWYsz7pZ3qk5by6QxdJb4pWLTKnCME8"
         }
       ],
       "services": {
