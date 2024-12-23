@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCijXXUQRj7GQMR-7ZeicrhgS3j0VG7m_E</string>
+	<string>AIzaSyB3HB3NHWovUERTUNtH5flMTRGjOHPg3iE</string>
 	<key>GCM_SENDER_ID</key>
-	<string>961519639955</string>
+	<string>702966691379</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.example.rentapp</string>
 	<key>PROJECT_ID</key>
-	<string>rentapp-fg-x</string>
+	<string>rental-app-1b937</string>
 	<key>STORAGE_BUCKET</key>
-	<string>rentapp-fg-x.appspot.com</string>
+	<string>rental-app-1b937.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:961519639955:ios:4e1e6305b65a216f7f1c66</string>
+	<string>1:702966691379:ios:1862091aa121188e3b1546</string>
 </dict>
 </plist>
